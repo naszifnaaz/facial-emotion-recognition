@@ -1,0 +1,3 @@
+pip install --ignore-installed --upgrade tensorflow==1.9
+
+conda install tensorflow
